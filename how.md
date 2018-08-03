@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Who
-permalink: /who/
+title: Why
+permalink: /why/
 tags: nav
 ---
 
-A list of signatories to the statement
+more detailed philosophical statement and resources for how to review based on the design
