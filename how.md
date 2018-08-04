@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Why
-permalink: /why/
+title: How
+permalink: /how/
 tags: nav
 ---
 
